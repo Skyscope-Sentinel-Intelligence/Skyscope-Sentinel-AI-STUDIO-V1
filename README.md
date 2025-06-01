@@ -9,7 +9,7 @@
 
 ### Skyscope Sentinel AI Studio
 
-# A powerful cross platform desktop application with multi agent multi LLM inferencing available on Windows, Mac and Linux. Skyscope Sentinel AI Studio fully supports Ollama local AI LLM models allowing you to use AI models and capabilities with online access or without the need for an internet connection offline if you prefer.
+A powerful cross platform desktop application with multi agent multi LLM inferencing available on Windows, Mac and Linux. Skyscope Sentinel AI Studio fully supports Ollama local AI LLM models allowing you to use AI models and capabilities with online access or without the need for an internet connection offline if you prefer.
 
 
 
