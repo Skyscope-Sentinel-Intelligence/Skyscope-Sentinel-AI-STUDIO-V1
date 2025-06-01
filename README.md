@@ -4,7 +4,7 @@
   </a>
 </div>
 <div align="center">
-  English | <a href="./README.zh.md"></a>
+  English <a href="./README.md"></a>
 </div>
 
 ### Skyscope Sentinel AI Studio
