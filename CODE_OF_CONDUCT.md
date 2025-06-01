@@ -1,4 +1,4 @@
-This software is licensed under the **Apache License 2.0**. In addition to the terms of the Apache License 2.0, the following additional terms apply to the use of Cherry Studio:
+This software is licensed under the **Apache License 2.0**. In addition to the terms of the Apache License 2.0, the following additional terms apply to the use of Skyscope Sentinel AI Studio:
 
 **I. Commercial Use License**
 
@@ -11,17 +11,17 @@ This software is licensed under the **Apache License 2.0**. In addition to the t
 
 **II. Contributor Agreement**
 
-As a contributor to Cherry Studio, you agree to the following:
+As a contributor to Skyscope Sentinel AI Studio, you agree to the following:
 
 1. **License Adjustment**: The producer reserves the right to adjust the open-source license as needed, making it stricter or more lenient.
 2. **Commercial Use**: Any code you contribute may be used for commercial purposes, including but not limited to cloud business operations.
 
 **III. Other Terms**
 
-1. The interpretation of these terms is subject to the discretion of Cherry Studio developers.
+1. The interpretation of these terms is subject to the discretion of Skyscope Sentinel AI Studio developers.
 2. These terms may be updated, and users will be notified through the software when changes occur.
 
-For any questions or to request a commercial license, please contact the Cherry Studio development team.
+For any questions or to request a commercial license, please contact the Skyscope Sentinel AI Studio development team.
 
 Apart from the specific conditions mentioned above, all other rights and restrictions follow the Apache License 2.0. Detailed information about the Apache License 2.0 can be found at http://www.apache.org/licenses/LICENSE-2.0.
 
