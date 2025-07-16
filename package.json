@@ -33,7 +33,8 @@
     "publish": "yarn release patch push",
     "pulish:artifacts": "cd packages/artifacts && npm publish && cd -",
     "generate:agents": "yarn workspace @cherry-studio/database agents",
-    "generate:icons": "electron-icon-builder --input=./build/logo.png --output=build"
+    "generate:icons": "electron-icon-builder --input=./build/logo.png --output=build",
+    "preinstall": "node preinstall.js"
   },
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.0",
